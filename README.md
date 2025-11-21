@@ -1,4 +1,4 @@
-Update from Local Machine
+Update from Local Machine B882
 # 📘 Appium Automation Setup Guide (macOS + TypeScript)
 
 ## 🛠 Part 1: ติดตั้งโปรแกรมพื้นฐาน (Prerequisites)
